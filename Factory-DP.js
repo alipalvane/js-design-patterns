@@ -51,7 +51,7 @@ const Monkey = function () {
 const factory = new animalFactory();
 
 const jojo = factory.createAnimal("dog");
-jojo.makeSound()
+jojo.makeSound();
 
 const smokey = factory.createAnimal("cat");
 smokey.makeSound();

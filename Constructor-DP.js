@@ -1,4 +1,4 @@
-// Constructor design pattern - Creational Design
+// Constructor Pattern - Creational Design
 class Person {
   constructor(name, age, mother) {
     this.name = name;
